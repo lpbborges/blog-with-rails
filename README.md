@@ -1,1 +1,1 @@
-## A basic blog example with Ruby on Rails
+## The [Getting Started Example](https://guides.rubyonrails.org/getting_started.html)
